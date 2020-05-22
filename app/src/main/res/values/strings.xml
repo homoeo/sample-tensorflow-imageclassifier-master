@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright 2017 The Android Things Samples Authors.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <string name="app_name">Image Classifier</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="help_message">Press the button or touch the screen</string>
+    <string name="Acne">
+        medicinal use:
+        1. Wash the face twice daily \n
+        2. Refrain from harsh scrubbing \n
+        3. Keep hair clean \n
+        4. Refrain from popping or picking at pimples\n
+        5. Cut back on foods linked to acne\n
+        6. Refrain from excess exfoliation\n
+        7.The Plants used are manjistha,neem,aloevera\n
+    </string>
+    <string name="measles">
+        medicinal use:
+       1.Get rest and avoid busy activities.\n
+        2.Drink plenty of water, fruit juice and herbal tea to replace fluids lost by fever and sweating.\n
+        3.Use a humidifier to relieve a cough and sore throat.\n
+        4.Rest your eyes\n
+        5.Post-exposure vaccination.\n
+        6.The plants used are Artemisia dubia,Cinnamomum camphora Nees,Elephantopus scaber,Polycarpon prostratum \n
+
+    </string>
+    <string name="fennel">
+        medicinal use:
+        1. Blood pressure\n
+        2. Heart health\n
+        3. Cancer\n
+        4. Immunity\n
+        5. Inflammation\n
+        6. Metabolism
+            </string>
+    <string name="mint">
+        medicinal use:
+        1. Improves Digestion\n
+        2. Treats Bad Breath\n
+        3. Combats the Common Cold and Flu\n
+        4. Reduces Fever\n
+        5. Improves Mental Awareness and Focus\n
+    </string>
+    <string name="tulsi">
+        medicinal use:
+        1. Asthma\n
+        2. bronchitis\n
+        3. colds\n
+        4. congestion\n
+        5. coughs\n
+        6. flu
+</string>
+
+
+</resources>
